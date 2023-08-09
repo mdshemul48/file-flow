@@ -1,0 +1,11 @@
+{
+  "name": "file-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "test": "node index.js"
+  },
+  "author": "MD. Shimul <mdshemul480@gmail.com>",
+  "license": "ISC"
+}
