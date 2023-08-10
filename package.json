@@ -2,9 +2,10 @@
   "name": "file-flow",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "node ."
   },
   "author": "MD. Shimul <mdshemul480@gmail.com>",
   "license": "ISC",
