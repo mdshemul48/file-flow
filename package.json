@@ -5,7 +5,9 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "test": "npm run build && node ."
+    "test": "npm run build && node .",
+
+    "prepare": "npm run build"
   },
   "author": "MD. Shimul <mdshemul480@gmail.com>",
   "license": "ISC",
